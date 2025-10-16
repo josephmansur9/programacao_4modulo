@@ -1,17 +1,18 @@
 Parte 1 (arduino físico):
 
-[Vídeo da parte 1](https://youtube.com/shorts/po90KS-5_lA)
+[Vídeo do arduino físico](https://youtube.com/shorts/po90KS-5_lA)
 
-[código parte 1](assets/exemplo1.ino)
+[Código do arduino físico](assets/exemplo1.ino)
 
 
 Parte 2 (ardunino no tinkercad):
-[Vídeo da parte 2](https://youtu.be/g2O5bFiP6KE)
 
-[código do tinkercad virtual](assets/exemplo2.ino)
+[Vídeo do tinkercad virtual](https://youtu.be/g2O5bFiP6KE)
 
-Segunda parte da parte 2
+[Código do tinkercad virtual](assets/exemplo2.ino)
 
-[Vídeo do circuito fisico](https://youtube.com/shorts/9o7sYKiZ0r4)
+Segunda parte da parte 2 (circuito fisico)
 
-[código do arduino para ele piscar colorido](assets/exemplo3/ino)
+[Vídeo do circuito fisico que pisca colorido](https://youtube.com/shorts/9o7sYKiZ0r4)
+
+[Código do arduino para ele piscar colorido](assets/exemplo3.ino)
